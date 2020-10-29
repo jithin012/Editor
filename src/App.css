@@ -1,0 +1,19 @@
+
+.ant-layout-header {
+  background: #7dbcea;
+  color: #fff;
+  height: 32px;
+}
+.full-width-height {
+  width: 100%;
+  height: 100vh;
+}
+
+.app-sider{
+  color: white;
+}
+
+.app-content {
+  padding: 12px 25px;
+  /* overflow: auto; */
+}
