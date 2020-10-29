@@ -1,0 +1,21 @@
+
+div.DraftEditor-root {
+  border: 1px solid #C0C0C0;
+  height: 320px;
+  width: auto;
+  overflow-y: auto;
+}
+
+.public-DraftStyleDefault-block {
+  margin: 0;
+}
+
+.toolbar-class {
+  background: center;
+}
+
+
+.editor-class {
+  background: white;
+  overflow: auto;
+}
